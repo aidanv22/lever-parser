@@ -1,3 +1,5 @@
+# lexer-parser-part1
+
 Implemented a parser for a custom programming language. The language will support basic arithmetic operations, boolean expressions, variable assignments, control flow structures like if-else and while, and function calls. The goal is to understand parsing techniques, abstract syntax trees (AST).
 
 Attached are screenshots explaining the layout of the project:
